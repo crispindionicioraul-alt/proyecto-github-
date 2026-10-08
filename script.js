@@ -3,7 +3,7 @@
       leads: {
         tag: "Flujo de ventas",
         title: "Cada lead, atendido.",
-        description: "Cuando alguien completa tu formulario, Fluyo le da la bienvenida, lo organiza y avisa a la persona adecuada.",
+        description: "Cuando alguien completa tu formulario, Visionarius le da la bienvenida, lo organiza y avisa a la persona adecuada.",
         nodes: ["Formulario", "Email de bienvenida", "CRM actualizado"],
         icons: ["form", "mail", "crm"]
       },
